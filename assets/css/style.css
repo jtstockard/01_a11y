@@ -13,7 +13,7 @@ body {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
-    color: #ffffff;
+    color: #fff;
 }
 
 .header h1 {
@@ -22,7 +22,7 @@ body {
 }
 
 .header h1 .horiseon {
-    color: #ffffff;
+    color: #fff;
 }
 
 .header div {
@@ -43,7 +43,7 @@ body {
 }
 
 a {
-    color: #ffffff;
+    color: #fff;
     text-decoration: none;
 }
 
@@ -52,7 +52,7 @@ p {
 }
 
 .hero {
-    height: 880px;
+    height: 800px;
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
@@ -116,17 +116,17 @@ p {
 
 .benefit-lead {
     margin-bottom: 32px;
-    color: #ffffff;
+    color: #fff;
 }
 
 .benefit-brand {
     margin-bottom: 32px;
-    color: #ffffff;
+    color: #fff;
 }
 
 .benefit-cost {
     margin-bottom: 32px;
-    color: #ffffff;
+    color: #fff;
 }
 
 .benefit-lead h3 {
@@ -168,7 +168,7 @@ p {
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
-    color: #ffffff;
+    color: #fff;
 }
 
 .online-reputation-management {
@@ -177,7 +177,7 @@ p {
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
-    color: #ffffff;
+    color: #fff;
 }
 
 .social-media-marketing {
@@ -186,7 +186,7 @@ p {
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
-    color: #ffffff;
+    color: #fff;
 }
 
 .footer {
