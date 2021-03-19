@@ -20,13 +20,13 @@ Clicking these links will direct you to the corresponding paragraph located on t
     ![nav-bar-usage](assets/images/nav-bar-usage.png)
     ```
 ## Credits
-<href=https://css-tricks.com>
-<href=https://medium.com/@krisrivenburgh/the-ada-checklist-website-compliance-guidelines-for-2019-in-plain-english-123c1d58fad9>
-<href=https://www.w3schools.com/html/html5_semantic_elements.asp>
-Rigo A. Pinell - 
-Sean McElwain -
-Jose Orozco -
-Ernie Rodriguez -
+- <https://css-tricks.com>
+- <https://medium.com/@krisrivenburgh/the-ada-checklist-website-compliance-guidelines-for-2019-in-plain-english-123c1d58fad9>
+- <https://www.w3schools.com/html/html5_semantic_elements.asp>
+- Rigo A. Pinell - <>
+- Sean McElwain - <https://github.com/sean-mcelwain>
+- Jose Orozco - <>
+- Ernie Rodriguez - <>
 ## License
  GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
